@@ -1,0 +1,3 @@
+[submodule "weibo"]
+	path = weibo
+	url = https://github.com/milkTeahm/weibo.git
